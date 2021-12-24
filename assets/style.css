@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(69, 197, 197);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 100px 250px;
+}
+.header{
+    border-radius: 25px;
+   background-color: white;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 90px;
+}
+.second{
+    padding: 15px 0;
+    text-align: center;
+}
+.second1{
+    padding: 15px 0;
+    text-align: center;
+    color: gray;
+}
+.second2{
+    padding: 15px 0;
+    text-align: center;
+    color: orange
+}
+.second3{
+    padding: 15px 0;
+    text-align: center;
+    color: rgb(185, 53, 53);
+}
+
+.qow{
+    padding-top: 50px;
+}
+.box1 > p {
+    padding: 10px 0;
+    text-align: center;
+    color: gray;
+}
+.box1 > p > b {
+    color: black;
+}
